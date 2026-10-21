@@ -53,18 +53,13 @@ const eduardo = {
 
 <br/>
 
-## 🛸 The Omnitrix Playlist
+## ⚡ What I do
 
-> Every hero has a transformation for each problem. These are mine.
-
-| | Alien | Power | My version |
-|:-:|---|---|---|
-| ⚡ | **XLR8** | Super speed | **n8n** workflows that turn hours of manual work into seconds |
-| 🧠 | **Grey Matter** | Genius intellect | **TypeScript** + **NestJS** backend architecture |
-| 🤖 | **Upgrade** | Merges with any tech | **AI agents** plugged into real business processes |
-| 💎 | **Diamondhead** | Unbreakable armor | Studying **software security** to harden what I ship |
-| 💪 | **Four Arms** | Heavy lifting | **Docker**, **Supabase** and **Postgres** carrying production |
-| 🔥 | **Heatblast** | Raw creative fire | **Figma**, **Framer** and **Blender** for design and 3D |
+- **Automation** — I take the repetitive stuff a team does by hand and turn it into **n8n** workflows.
+- **Backend** — APIs and data layers with **TypeScript**, **NestJS**, **Supabase** and **Postgres**.
+- **AI agents** — connecting agents to the tools and data a business already uses.
+- **Design & 3D** — interfaces in **Figma** and **Framer**, and **Blender** when a project needs 3D.
+- **Security** — studying it so what I ship is harder to break.
 
 <br/>
 
