@@ -12,7 +12,7 @@
   <a href="https://discord.gg/eduard0.exe_82209"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=39ff5a" alt="Discord"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=AzmuthDev&label=profile%20views&color=39ff5a&style=flat-square&labelColor=0d1117" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AzmuthDev&label=Profile+views&color=39ff5a&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/AzmuthDev?label=followers&style=flat-square&color=39ff5a&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
 <img src="https://img.shields.io/badge/working%20at-Googlar-39ff5a?style=flat-square&labelColor=0d1117" alt="Working at Googlar"/>
 </div>
